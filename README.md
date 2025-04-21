@@ -40,4 +40,6 @@ Here is the extracted text from the image:
 **Chart Type:** Matrix Card.
 
 - Dashboard Interaction  <a href ="https://github.com/Ramcharan71/PowerBI-Dashboard/blob/main/Dashboard.png">View Dashboard</a>
-"E:\Blinkit Dashboard\Dashboard.png"
+## Dashboard 
+![Dashboard](https://github.com/user-attachments/assets/47191133-7032-4e5a-917f-340d24d118a8)
+
